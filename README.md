@@ -1,6 +1,7 @@
 # First-project
 Independent Work 1
 You have to create fully-functioning website, depending on your sphere.
+
 DEADLINE: 10-May, 2021
 
 Technical requirements:
