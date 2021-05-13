@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+}
+.s1{
+    margin-left: 5%;
+}
+.s2{
+    margin-left: 5%;
+}
+.s3{
+    margin-left: 5%;
+}
+.footer {
+    text-decoration: none;
+    color: white;
+    position:static;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(56, 56, 56);
+    text-align: center;
+  }
+  .footer>a{
+    color: #ffffff;
+  } 
