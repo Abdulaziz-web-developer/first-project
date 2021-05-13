@@ -14,4 +14,4 @@ Technical requirements:
 * There should be, at least, 15 commits
 * NEVER PUSH TO &quot;MASTER&quot; BRANCH
 * Mind the style
-* You can use CSS
+* You can use CSS ;)
